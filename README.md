@@ -1,4 +1,6 @@
 # Bikesharing
+[Aaron CitiBike Challenge](https://public.tableau.com/app/profile/aaron.scheet/viz/CitiBikeChallenge_16372690273110/NYCCitiBikeAnalysisforDesMoines?publish=yes)
+
 Investors are interested in replicating the CitiBiki Bike Rental model that is popular in NYC in Des Moines, IA.  Data was analyzed by ride location, gender, subscriber, and time to determine how the model could be used to determine when maintenance could be performed and where large hubs of bike rentals seemed to correlate.
 Data visualization software called Tableau was used to present a business proposal for a bike-sharing company. It is used to import, style, and portray data accurately. Then, create worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
 Tableau is an excellent tool for data visualization. It has a very specific purpose: to provide data visualization that is easy to use and understand. 
