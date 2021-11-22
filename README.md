@@ -5,13 +5,18 @@ Tableau is an excellent tool for data visualization. It has a very specific purp
 
 ## Deliverable One: Change Trip Duration to a Datetime Format
 
-Using Python and Pandas functions, convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After the "tripduration" column was converted to a datetime dataytpe, the DataFrame was exported as a new CSV file to use for the trip analysis.
+Using Python and Pandas functions, convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After the "tripduration" column was converted to a datetime dataytpe, the DataFrame was exported as a new CSV file to use for the trip analysis.  A sample of the DataFrame is below in Figure 1.
+
 ![Fig 1 - DataFrame](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/Deliverable-1.png?raw=true)
 
 ## Deliverable Two: Create Visualizations for the Trip Analysis
-![Fig 2 - Initial Data](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/2-1.png?raw=true)
+
 Tableau has been used to determine the bike rental data for New York City for the month of August 2019.  There is an interest in replicating a similar model for downtown Des Moines, IA.  
-Of the analysis for the month of August it collated over 2+ million transactions, and the data was sorted to determine if/how the model can be used in Des Moines.  Here is a quick breakdown of the rental users.  As you can see there is a subscription service for the rental bikes, this shows that more than 75% of users are subscribers to the bike service and most likely use it on a regular basis.  Another observation is that 2/3 of the users are male.  One marketing strategy would be an attempt to market, or make it easier for women to rent or ride bikes that could increase the female demographic.
+Of the analysis for the month of August over 2+ million transactions were collected and analyzed and sorted to determine if/how the model can be used in Des Moines.  Here is a quick breakdown of the rental users.  
+
+
+![Fig 2 - Initial Data](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/2-1.png?raw=true)
+As you can see there is a subscription service for the rental bikes, this shows that more than 75% of users are subscribers to the bike service and most likely use it on a regular basis.  Another observation is that 2/3 of the users are male.  One marketing strategy would be an attempt to market, or make it easier for women to rent or ride bikes that could increase the female demographic.
 
 Figure 3 below shows a map of NYC that shows the highest rental starting locations.  The larger the dot and darker the dot, it corresponds to higher density rentals.  Top three rental starting locations are 
 ![Fig 3 - 2-2](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/2-2.png?raw=true)
