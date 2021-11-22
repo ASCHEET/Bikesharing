@@ -14,11 +14,11 @@ Using Python and Pandas functions, convert the "tripduration" column from an int
 Tableau has been used to determine the bike rental data for New York City for the month of August 2019.  There is an interest in replicating a similar model for downtown Des Moines, IA.  
 Of the analysis for the month of August over 2+ million transactions were collected and analyzed and sorted to determine if/how the model can be used in Des Moines.  Here is a quick breakdown of the rental users.  
 
-
 ![Fig 2 - Initial Data](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/2-1.png?raw=true)
+
 As you can see there is a subscription service for the rental bikes, this shows that more than 75% of users are subscribers to the bike service and most likely use it on a regular basis.  Another observation is that 2/3 of the users are male.  One marketing strategy would be an attempt to market, or make it easier for women to rent or ride bikes that could increase the female demographic.
 
-Figure 3 below shows a map of NYC that shows the highest rental starting locations.  The larger the dot and darker the dot, it corresponds to higher density rentals.  Top three rental starting locations are 
+Figure 3 below shows a map of NYC that shows the highest rental starting locations.  The larger the dot and darker the dot, it corresponds to higher density rentals.  Top three rental starting locations are Pershing Square North, E 17th St & Broadway, and West St & Chambers St.
 ![Fig 3 - 2-2](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/2-2.png?raw=true)
 
 Figure 4 below shows a similar map of NYC that shows highest rental return locations.  The highest density starting are also the highest density rental ending locations.  It would indicate that there is a high concentrations of commuter users that get on and off at the same locations routinely.
