@@ -37,6 +37,7 @@ Figure 8 displays a count of popular rental hours sorted by weekday and gender. 
 ![Fig 8 - 2-7](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/2-7.png?raw=true)
 
 Figure 9 shows a similar count of popular rental hours sorted by weekday, gender, and if the user is a subscriber.  This plots seems to show most subscribers use the CitiBikes during the weekdays, while non-subscribers use the bikes during the weekends.
+
 ![Fig 9 - 2-8](https://github.com/ASCHEET/Bikesharing/blob/main/Resources/2-8.png?raw=true)
 
 
