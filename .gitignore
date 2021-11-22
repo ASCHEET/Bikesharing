@@ -1,6 +1,8 @@
 # Cache files, generates by Zephir
 .temp/
 .libs/
+201908-citibike-tripdata.csv
+citibike-tripdata-new.csv
 
 # Object files, generates by linker
 *.lo
